@@ -1,15 +1,66 @@
 {
-  "updated": "2026-10-18T02:05+04:00",
+  "updated": "2026-10-18T12:45+04:00",
   "tasks": [
-    {"task": "Админ-панель в боте (/claude, /tasks, /posts, /videos)", "status": "ждёт /start от владельца в @biznes_na_ii_bot"},
-    {"task": "IG-версии роликов «8 млн $» и «ИИ-агенты»", "status": "рендер"},
-    {"task": "План роликов на 19–21.10", "status": "утром"},
-    {"task": "Исправить ссылку в био Instagram на t.me/biznes_na_ii_bot?start=ig", "status": "за тобой"}
+    {
+      "task": "Админ-панель в боте (/claude, /tasks, /posts, /videos)",
+      "status": "ждёт /start от владельца в @biznes_na_ii_bot"
+    },
+    {
+      "task": "IG-версии роликов «8 млн $» и «ИИ-агенты»",
+      "status": "рендер"
+    },
+    {
+      "task": "Исправить ссылку в био Instagram на t.me/biznes_na_ii_bot?start=ig",
+      "status": "за тобой"
+    },
+    {
+      "task": "Озвучка: Air Canada и «Пока ты спишь»",
+      "status": "ждём от владельца"
+    },
+    {
+      "task": "Проверка №1: 10 автосалонов в 23:00",
+      "status": "ждём скриншоты до 21.10"
+    }
   ],
   "videos": [
-    {"title": "Tesla взлетела?", "tiktok": "18.10 12:00", "youtube": "18.10 12:00", "instagram": "вышло 17.10 20:30", "file": "v/tesla_neon_tt.mp4"},
-    {"title": "$8 млн на ботах", "tiktok": "18.10 16:00", "youtube": "18.10 16:00", "instagram": "18.10 19:00", "file": "v/music_neon_tt.mp4"},
-    {"title": "ИИ-агенты вне контроля", "tiktok": "18.10 20:00", "youtube": "18.10 20:00", "instagram": "19.10 19:00", "file": "v/agents_neon_tt.mp4"}
+    {
+      "title": "Tesla взлетела?",
+      "tiktok": "18.10 12:00",
+      "youtube": "18.10 12:00",
+      "instagram": "вышло 17.10 20:30",
+      "file": "v/tesla_neon_tt.mp4"
+    },
+    {
+      "title": "$8 млн на ботах",
+      "tiktok": "18.10 16:00",
+      "youtube": "18.10 16:00",
+      "instagram": "18.10 19:00",
+      "file": "v/music_neon_tt.mp4"
+    },
+    {
+      "title": "ИИ-агенты вне контроля",
+      "tiktok": "18.10 20:00",
+      "youtube": "18.10 20:00",
+      "instagram": "19.10 19:00",
+      "file": "v/agents_neon_tt.mp4"
+    }
   ],
-  "posts": []
+  "posts": [
+    {
+      "title": "Где бизнес теряет деньги (знакомство + АУДИТ)",
+      "date": "18.10 12:42",
+      "status": "вышел, закрепить вручную",
+      "url": "https://t.me/bizness_na_ii/49"
+    },
+    {
+      "title": "Бот пообещал — платит бизнес (Air Canada)",
+      "date": "21.10 12:00",
+      "status": "в расписании"
+    },
+    {
+      "title": "Сколько заявок теряешь ночью",
+      "date": "23.10 12:00",
+      "status": "в расписании"
+    }
+  ]
 }
